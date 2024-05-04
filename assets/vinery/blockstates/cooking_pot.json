@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "vinery:block/cooking_pot",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "vinery:block/cooking_pot"
+    },
+    "facing=south": {
+      "model": "vinery:block/cooking_pot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "vinery:block/cooking_pot",
+      "y": 270
+    }
+  }
+}
