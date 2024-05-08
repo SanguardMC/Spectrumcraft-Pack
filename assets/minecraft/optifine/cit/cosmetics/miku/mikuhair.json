@@ -310,6 +310,15 @@
 		"thirdperson_righthand": {
 			"rotation": [0, -180, 0],
 			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"fixed": {
+			"translation": [0, 2.25, -2.5],
+			"scale": [0.47, 0.47, 0.47]
 		}
 	},
 	"groups": [
