@@ -22,8 +22,7 @@
 			],
 			"animations": [
 				{
-					"head.visible": "true",
-					"headwear.visible": "true"
+					"head.visible": "true"
 				}
 			]
 		},
