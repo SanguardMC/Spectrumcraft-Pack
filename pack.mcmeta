@@ -1,16 +1,6 @@
 {
     "pack": {
-        "pack_format": 15,
-		"supported_formats": [15, 18],
-       "description":"\u00A75Resource pack para el SMP"
-    },
-
-	"overlays": {
-		"entries": [
-			{
-				"formats": {"min_inclusive": 18, "max_inclusive": 2147483647},
-				"directory": "overlay_18"
-			}
-		]
-	}
+        "pack_format": 3,
+        "description": "\u00A75 Backported 2.0 for testing"
+    }
 }
